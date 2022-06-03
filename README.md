@@ -23,7 +23,7 @@ npm run build            # builds the app for production
 - TypeScript;
 - Redux;
 - HTML/CSS(SCSS);
-- React Router v.6;
+- React Router v.6; 
 - Other packages: axios, classnames, react-redux, json-server, sass;
 
 ## Application features:
